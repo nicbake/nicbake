@@ -1,6 +1,7 @@
 # 🛹 Nic Baker
 
 ---
+I am a recent graduate from the University of Guelph with a degree in Computer Science and, a minor in Psychology
 
 ### 🧰 Languages and Tools
 
